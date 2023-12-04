@@ -19,7 +19,7 @@
     - GraphQL queries are written using a declarative syntax that describes the data needed.
     - Variables can be used in queries to make them dynamic and reusable.
     - Arguments can be passed to resolvers to filter and manipulate fetched data.
-    - Nested data can be fetched by specifying hierarchical relationships in the query.
+    Nested data can be fetched by specifying hierarchical relationships in the query.
 
 **Modifying Data with GraphQL Mutations**
 
